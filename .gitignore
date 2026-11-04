@@ -4,6 +4,7 @@
 .env
 # 추출 이미지 (용량 폭증 방지)
 data/figures/
+data/figures_prac/
 *.pdf
 # 벡터 DB
 chroma_db/
