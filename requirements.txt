@@ -15,3 +15,5 @@ tiktoken
 python-dotenv
 ipykernel
 jupyterlab
+
+requests

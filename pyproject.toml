@@ -103,6 +103,7 @@ langchain-ollama==1.1.0
 langchain-openai==1.7.3
 langchain-protocol==0.0.20
 langchain-text-splitters==1.1.3
+langchain-
 langdetect==1.0.9
 langgraph==1.2.19
 langgraph-checkpoint==4.3.1
